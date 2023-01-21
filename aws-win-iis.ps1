@@ -37,3 +37,4 @@ Add-Content $filename "<br>"
 Add-Content $filename "<b>Your Public DNS Address is:</b> "
 Add-Content $filename $publichostname
 </powershell>
+<persist>true</persist>
